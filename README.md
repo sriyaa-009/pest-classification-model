@@ -97,9 +97,9 @@ Add user interface enhancements, batch processing of images.
 
 ## Author
 
-Sanjana Soori
+Sriyaa.S
 
-GitHub: sanjanasoori
+GitHub: sriyaa-009
 
 
 ---
